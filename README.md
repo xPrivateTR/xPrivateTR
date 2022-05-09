@@ -6,4 +6,4 @@ Currently learning:
 HTML/JS/CSS
 AutoHotkey 
 
-My website(i will release my applications soon!): bit.ly/3KYwHbN 
+My website(i will release my applications soon!): https://bit.ly/3KYwHbN 
