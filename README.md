@@ -1,11 +1,13 @@
 Currently using:
-Microsoft Windows® Based Visual Basic Scripting Edition /
-Hypertext Applications.
+Microsoft Windows® Based Visual Basic Scripting Edition. 
+Hypertext Applications. 
+Microsoft JScript
+HTML/JS/CSS
 
 Currently learning:
-HTML/JS/CSS
-AutoHotkey
-Linux
+AutoHotkey. 
+Front-End Web Development
+Kali Linux 
 
 My website(i will release my applications soon!): https://bit.ly/xprivatetrwixㅤ ㅤㅤ
 My Instagram Account: https://instagram.com/xprivatetr.devㅤㅤ
